@@ -9,27 +9,20 @@ body{
 .banner {
     background-color: #75aadb;
     box-sizing: border-box;
-  
-
     height: 200px;
     width: 100%;
     padding: 40px;
-    
-
     font:bolder;
-    color: white;
-    
+    color: white; 
 }
 
 .banner img{
-
     width: 120px;
     height: auto;
     display: inline-block;
     vertical-align: middle;
     padding: 0px;
     border: 5px solid #fcbf45;
-
 }
 
 .banner h1{
@@ -61,5 +54,18 @@ body{
     padding: 5px;
     border-radius: 20px;
      border:2px dashed #843511;
-    
+}
+
+.banner a{
+    text-decoration: none;
+    color:white;
+}
+
+.banner a:hover{
+    color:black;
+    font-weight: bolder;
+}
+
+.banner h3:hover{
+    transform: scale(1.5);
 }
