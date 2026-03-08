@@ -69,3 +69,37 @@ body{
 .banner h3:hover{
     transform: scale(1.5);
 }
+
+.content{
+  
+    margin:auto 50px auto 50px;
+}
+
+.tabla{
+
+    display: inline-block;
+    width: 600px;
+    font-size: 0px;
+    margin: 0;
+}
+
+.tabla li{
+    box-sizing: border-box;
+    display: inline-block;
+
+    border-radius: 10px;
+    border:3px solid #843511;
+    
+    height: 100px;
+    width: 33%;
+    
+    line-height:100px;
+    text-align: center;
+    font-size: medium;
+}   
+
+.content img{   
+    border-radius: 10px;
+    width: 500px;
+}
+
