@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.banner {
+    background-color: #75aadb;
+    box-sizing: border-box;
+  
+
+    height: 200px;
+    width: 100%;
+    padding: 40px;
+
+    font:bolder;
+    color: white;
+    align-items: center;
+    
+}
