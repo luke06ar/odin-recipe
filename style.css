@@ -37,5 +37,29 @@ body{
     vertical-align: middle;
     margin: 0;
     margin-left: 20px;
-    font-size: xx-large;
+}
+
+.banner h2{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    margin-left: 20px;
+    color:white;
+    background-color:#fcbf45;
+     padding: 5px;
+    border-radius: 20px;
+     border:2px dashed #843511;
+}
+
+.banner h3{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    margin-left: 150px;
+    color:white;
+    background-color:#fcbf45;
+    padding: 5px;
+    border-radius: 20px;
+     border:2px dashed #843511;
+    
 }
