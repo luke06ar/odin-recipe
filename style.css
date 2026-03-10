@@ -75,7 +75,7 @@ body{
     box-sizing: border-box;
     margin:auto 60px auto 60px;
     background-color: white;
-    padding: 20px;
+    padding: 10px;
     border-radius: 20px;
     border: 10px double #75aadb;
 }
@@ -95,7 +95,7 @@ body{
 
     width: 100%;
     height: auto;
-    border-radius: 20px;
+    border-radius: 10px;
 
 }
 
