@@ -104,6 +104,13 @@ body{
     margin: auto auto auto 60px;
     width: 35%;
     vertical-align: middle;
+    text-align: center;
+}
+
+.content ol li{
+    margin-bottom: 20px;
+    
+
 }
 
 .tabla{
@@ -119,17 +126,36 @@ body{
     border-radius: 10px;
     border:3px solid #75aadb;
     
-    height: 100px;
-    width: 173px;
+    width: 33%;
     
     line-height:100px;
     text-align: center;
     font-size: medium;
+
 }   
 
 
-.content ol li{
-    margin-bottom: 20px;
+.tabla.asado{
+    display: inline-block;
+    width: 400px;
+    font-size: 0px;
     
-
 }
+
+.tabla.asado ul li{
+    box-sizing: border-box;
+    display: inline-block;
+
+    border-radius: 10px;
+    border:3px solid #75aadb;
+    
+    width: 50%;
+    
+    line-height:100px;
+    text-align: center;
+    font-size: medium;
+
+}   
+
+
+
